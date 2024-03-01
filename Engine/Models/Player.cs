@@ -2,10 +2,10 @@ namespace Engine.Models;
 
 public class Player
 {
-    private string name { get; set; } 
-    private string characterClass { get; set; } 
-    private int hitPoints { get; set; } 
-    private int xp { get; set; } 
-    private int level { get; set; } 
-    private int gold { get; set; } 
+    public string Name { get; set; }
+    public string CharacterClass { get; set; } 
+    public int HitPoints { get; set; } 
+    public int Xp { get; set; } 
+    public int Level { get; set; } 
+    public int Gold { get; set; } 
 }
