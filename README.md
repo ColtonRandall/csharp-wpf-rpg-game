@@ -1,1 +1,3 @@
-"# csharp-wpf-rpg-game"  git init git add README.md git commit -m "first commit" git branch -M master git remote add origin https://github.com/ColtonRandall/csharp-wpf-rpg-game.git git push -u origin master
+## RPG Game
+### C#/WPF desktop application 
+
